@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://drive.google.com/file/d/1wc9AY8jikLdD-ByCrPDO7AcNcegaAqYu/view?usp=drive_link" align="center" style="width: 100%" />
+![Header](./your-header-image-name.png)
 </div>  
   
 
@@ -34,18 +34,9 @@
 <a href="https://www.astro.build/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/astro.svg" alt="Astro" height="50" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
 </td></tr></table>  
 
 <br/>  
-
 
 ## Connect with me  
 <div align="center">
@@ -57,20 +48,14 @@
 </a>  
 </div>  
   
-
 <br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pmg369&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-  
-
 <br/>  
-
-  
 
 <br/>  
 
