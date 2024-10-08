@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./header-image.png)
   
 
 ### <div align="center">Soy Pablo, desarrollador freelance desde enero 2024 👨‍💻 trabajando en remoto 🚀</div>  
