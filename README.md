@@ -1,5 +1,5 @@
 <div align="center">
-!(./your-header-image-name.png)
+![header](./your-header-image-name.png)
 </div>  
   
 
