@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<p align="center"> ![Header](./github-header-image.png) </p>
 
 <!--
 **pmg369/pmg369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
