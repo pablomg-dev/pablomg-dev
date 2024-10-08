@@ -4,13 +4,13 @@
 ### <div align="center">Soy Pablo, desarrollador freelance desde enero 2024 👨‍💻 trabajando en remoto 🚀</div>  
   
 
-- 🌱 Actualmente aprendiendo Astro y ReacJS  
-  
+- 🌱 Actualmente aprendiendo ReactJS y Astro
 
-- ❓ Pregúnteme sobre cualquier cosa relacionada con HTML, CSS y JavaScript  
-  
+- ❓ Pregúnteme sobre cualquier cosa relacionada con HTML, CSS y JavaScript
 
-- ⚡ Curiosidad: soy demasiado detallista  
+- 🪙 Entusiasta de las Criptomonedas
+
+- ⚡ Curiosidad: soy demasiado detallista
   
 
 <br/>  
