@@ -14,8 +14,6 @@
 - ⚡ Curiosidad: soy demasiado detallista
 
 ## Skills
-<table>
-<tr><td valign="top" width="100%">
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
@@ -29,9 +27,6 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a> 
 </div>
-
-</td></tr>
-</table> 
 
 ## Contactame
 <div align="center">
