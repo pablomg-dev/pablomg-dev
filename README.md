@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="align: center;">
     <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="Logo HTML5" width="200px"/>
 </div>
 
