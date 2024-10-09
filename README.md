@@ -29,6 +29,9 @@
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
 </div>
 
+<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="Logo HTML5" width="200px"/>
+
+
 ## Contactame
 <div align="center">
   <a href="https://www.linkedin.com/in/pablomg19/" target="_blank">
