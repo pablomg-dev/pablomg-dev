@@ -29,14 +29,9 @@
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50"/>
 </div>
 
-<div style="pointer-events: none;">
-  <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="Logo HTML5" width="200px"/>
-</div>
-
 ## Contactame
 <div align="center">
   <a href="https://www.linkedin.com/in/pablomg19/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>  
 </div>
-
