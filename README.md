@@ -11,7 +11,7 @@
 
 - 🪙 Entusiasta de las Criptomonedas
 
-- ⚡ Curiosidad: soy demasiado detallista
+- ⚡ Curiosidad: simpatizante del kebab-case
 
 ## Skills
 
