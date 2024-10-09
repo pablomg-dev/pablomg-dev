@@ -11,7 +11,7 @@
 
 - 🪙 Entusiasta de las Criptomonedas
 
-- ⚡ Curiosidad: simpatizante del kebab-case
+- ⚡ Curiosidad: simpatizante del camelCase
 
 ## Skills
 
