@@ -1,5 +1,4 @@
-![Header](./header-image.png)
-  
+<div align="center">![Header](./header-image.png)</div>
 
 ### <div align="center">Soy Pablo, desarrollador freelance desde enero 2024 👨‍💻 trabajando en remoto 🚀</div>  
   
@@ -16,7 +15,7 @@
 <br/>  
 
 
-## Skilss
+## Skills
 <table><tr><td valign="top" width="100%">
 
 <div align="center">  
