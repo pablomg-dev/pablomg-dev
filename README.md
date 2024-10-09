@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="Logo HTML5" width="200px"/>
+<img src="https://drive.google.com/file/d/1diR0dVoy6sw4GockZv2rtdBL1Dgf2D_u/view?usp=sharing" alt="Logo HTML5" width="200px"/>
 </div>
 
 ### <div align="center">Soy Pablo, desarrollador freelance desde enero 2024 👨‍💻 trabajando en remoto 🚀</div>  
