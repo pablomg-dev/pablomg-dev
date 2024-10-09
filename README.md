@@ -13,9 +13,7 @@
 
 - ⚡ Curiosidad: soy demasiado detallista
   
-
 <br/>  
-
 
 ## Skills
 <table>
