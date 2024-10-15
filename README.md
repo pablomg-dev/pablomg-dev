@@ -5,13 +5,13 @@
 ### <div align="center">Soy Pablo, desarrollador freelance desde enero 2024 👨‍💻 trabajando en remoto 🚀</div>  
   
 
-- 🌱 Actualmente aprendiendo ReactJS y Astro
+- 🌱 Actualmente aprendiendo AstroJS.
 
-- ❓ Pregúnteme sobre cualquier cosa relacionada con HTML, CSS y JavaScript
+- ❓ Pregúnteme sobre cualquier cosa relacionada con HTML, CSS y JavaScript.
 
-- 🪙 Entusiasta de las Criptomonedas
+- 🪙 Entusiasta de las Criptomonedas.
 
-- ⚡ Curiosidad: simpatizante del camelCase
+- ⚡ Curiosidad: simpatizante del camelCase.
 
 ## Skills
 
