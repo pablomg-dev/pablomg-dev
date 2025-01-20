@@ -27,16 +27,7 @@
 
 ## Contactame
 <div align="center">
-  <a href="https://instagram.com/pablomg.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" />
-  </a>
   <a href="https://www.linkedin.com/in/pablomgdev/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://x.com/W3Paul" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x twitter" />
-  </a>
-  <a href="https://www.threads.net/@pablomg.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="threads" />
   </a>
 </div>
