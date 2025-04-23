@@ -3,7 +3,7 @@
 ### <div align="center">Programador y Desarrollador Web 🧑‍💻</div>  
   
 
-- 🌱 Actualmente aprendiendo AstroJS.
+- 🌱 Actualmente aprendiendo ReactJS y AstroJS.
 
 - ❓ Pregúnteme sobre cualquier cosa relacionada con HTML, CSS y JavaScript.
 
