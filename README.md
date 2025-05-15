@@ -1,6 +1,6 @@
 # <h1 align="center">¡Hola mundo!, Soy Pablo.<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 
-### <div align="center">Programador y Desarrollador Web 🧑‍💻</div>  
+### <div align="center">Web Developer 🧑‍💻</div>  
   
 
 - 🌱 Actualmente aprendiendo React-JS y Astro-JS.
