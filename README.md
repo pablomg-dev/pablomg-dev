@@ -28,6 +28,9 @@
   <br>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
+  <br>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" alt="Git"/>
+  
 
 </div>
 
