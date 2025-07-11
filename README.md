@@ -3,7 +3,7 @@
 ### <div align="center">Web Developer 🧑‍💻</div>  
   
 
-- 🌱 Actualmente aprendiendo React-JS y Astro-JS.
+- 🌱 Actualmente a full con React-JS y Astro-JS.
 
 - ❓ Pregúnteme sobre cualquier cosa relacionada con HTML, CSS y JavaScript.
 
