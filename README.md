@@ -7,7 +7,9 @@
 
 - ❓ Pregúnteme sobre cualquier cosa relacionada con HTML, CSS y JavaScript.
 
-- 🪙 Entusiasta de las Criptomonedas.
+- 🪙 Entusiasta de las Criptomonedas y explorando la blockchain de Solana.
+
+- 🦀 En proceso de aprendizaje de Rust.
 
 - ⚡ Curiosidad: simpatizante del camelCase.
 
