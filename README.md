@@ -1,17 +1,15 @@
 # <h1 align="center">¡Hola mundo!, Soy Pablo.<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 
-### <div align="center">Web Developer 🧑‍💻</div>  
+### <div align="center">Web Developer | AI & Web3 Enthusiast 🧑‍💻</div>  
   
 
-- 🌱 Actualmente a full con React-JS y Astro-JS.
+- 🌱 Enfocado en: Perfeccionando el desarrollo con React.js y Astro.js.
 
-- ❓ Pregúnteme sobre cualquier cosa relacionada con HTML, CSS y JavaScript.
+- 🦀 Blockchain: Explorando el ecosistema de Solana y profundizando en el lenguaje Rust para Smart Contracts.
 
-- 🪙 Entusiasta de las Criptomonedas y explorando la blockchain de Solana.
+- 🤖 AI: Integrando herramientas de Inteligencia Artificial para optimizar flujos de trabajo y desarrollo web.
 
-- 🦀 En proceso de aprendizaje de Rust.
-
-- ⚡ Curiosidad: simpatizante del camelCase.
+- 💬 Hablemos de: Desarrollo con React/Astro, integración de IA en el flujo dev y el ecosistema de Solana.
 
 ## Tecnologías
 
@@ -37,6 +35,10 @@
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+  <br>
+  <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white"/>
+  
   
   
 
@@ -47,7 +49,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pablomg.dev/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablomartingonzalez2025@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pablomg.developer@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablomgdev/)
 
