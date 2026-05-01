@@ -9,7 +9,6 @@
 
 - 🤖 AI: Integrando herramientas de Inteligencia Artificial para optimizar flujos de trabajo y desarrollo web.
 
-- 💬 Hablemos de: Desarrollo con React/Astro, integración de IA en el flujo dev y el ecosistema de Solana.
 
 ## Tecnologías
 
