@@ -41,6 +41,8 @@
   <img src="https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white"/>
 </div>
 
+> 💼 **Nota para reclutadores:** Gran parte de mi trabajo reciente con clientes reales y soluciones a medida se encuentra en **repositorios privados** por acuerdos de confidencialidad. Si querés conocer más sobre la arquitectura o el código de esos proyectos, no dudes en escribirme.
+
 ## Contactame
 <div align="center">
 
