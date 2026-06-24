@@ -13,7 +13,6 @@
 ## Tecnologías
 
 <div align="center">
-
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -40,6 +39,8 @@
   <img src="https://img.shields.io/badge/solana-%239945FF.svg?style=for-the-badge&logo=solana&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-%23000000?style=for-the-badge&logo=Cursor&logoColor=white"/>
 </div>
+
+<br>
 
 > 💼 **Nota para reclutadores:** Gran parte de mi trabajo reciente con clientes reales y soluciones a medida se encuentra en **repositorios privados** por acuerdos de confidencialidad. Si querés conocer más sobre la arquitectura o el código de esos proyectos, no dudes en escribirme.
 
