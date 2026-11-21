@@ -1,13 +1,11 @@
-# <h1 align="center">¡Hola mundo!, Soy Pablo.<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
+# <h1 align="center">Hi there, I'm Pablo<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px" /></h1>
 
-### <div align="center">Web Developer | AI & Web3 Enthusiast 🧑‍💻</div>  
+### <div align="center">AI Product Engineer | Agentic development with LLMs & AI agents 🤖</div>  
   
 
-- 🌱 Enfocado en: Perfeccionando el desarrollo con React.js y Astro.js.
-
-- 🦀 Blockchain: Explorando el ecosistema de Solana y profundizando en el lenguaje Rust para Smart Contracts.
-
-- 🤖 AI: Integrando herramientas de Inteligencia Artificial para optimizar flujos de trabajo y desarrollo web.
+- 🚀 **Building:** AI-powered web products with Astro, React and TypeScript, backed by Supabase and the OpenAI API.
+- 🧠 **AI:** Designing agentic workflows with LLMs and AI agents to ship faster and automate real business processes.
+- 🌱 **Currently:** Applying spec-driven development, CI and automated testing to every project.
 
 
 ## Tecnologías
@@ -51,4 +49,4 @@
 
 </div>
 
-> 💼 **Nota para reclutadores:** Gran parte de mi trabajo reciente con clientes reales y soluciones a medida se encuentra en **repositorios privados** por acuerdos de confidencialidad. Si querés conocer más sobre la arquitectura o el código de esos proyectos, no dudes en escribirme.
+> 💼 **Note for recruiters:** Much of my recent work with real clients and custom solutions lives in **private repositories** due to confidentiality agreements. If you'd like to know more about the architecture or code behind those projects, feel free to reach out.
